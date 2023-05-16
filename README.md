@@ -3,7 +3,7 @@ I'm Manthan, a passionate full-stack Java developer with experience in web and U
 
 Skills and Expertise:
 
-Java
+Java,
 HTML, CSS, JavaScript, jQuery, Bootstrap, ReactJS
 UI/UX design, responsive web design
 Git, GitHub, Agile development methodologies
