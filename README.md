@@ -1,18 +1,19 @@
-Hi there! 👋
-I'm Manthan, a passionate full-stack Java developer with experience in web and UI design. I strive to create elegant digital experiences that are not only visually pleasing but also highly functional.
+Hi there! 👋 I'm Manthan, a passionate MERN stack developer with expertise in ReactJS, Node.js, Express.js, MongoDB, and Next.js. I strive to create elegant and interactive web applications that provide engaging user experiences.
 
 Skills and Expertise:
 
-Java,
-HTML, CSS, JavaScript, jQuery, Bootstrap, ReactJS
-UI/UX design, responsive web design
-Git, GitHub, Agile development methodologies
+ReactJS
+Node.js
+Express.js
+MongoDB
+Next.js
+HTML
+CSS
+JavaScript
+Git
+GitHub
+Agile development methodologies
+Interests: In addition to my MERN stack expertise, I have a keen interest in artificial intelligence and DevOps. I enjoy exploring the intersection of machine learning and web development, and I'm eager to learn more about leveraging AI technologies to build intelligent and efficient applications. Furthermore, I'm interested in DevOps practices and methodologies, aiming to enhance the development process, deployment, and maintenance of software applications.
 
-Interests:
-I am always eager to learn and explore new technologies. Currently, I am interested in machine learning and DevOps and plan to dive deeper into these areas.
-
-Contact Me:
-If you have any questions, comments, or collaboration ideas, please feel free to contact me at manthanindane141@gmail.com. I'd love to hear from you!
-
-
+Contact Me: If you have any questions, comments, or collaboration ideas, please feel free to contact me at manthanindane141@gmail.com. I'd love to hear from you!
 
